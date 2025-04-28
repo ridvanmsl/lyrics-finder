@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[974],{2632:(e,n,r)=>{Promise.resolve().then(r.t.bind(r,3063,23))},5649:(e,n,r)=>{"use strict";function s(e){let{src:n}=e;return"/lyrics-finder".concat(n)}r.r(n),r.d(n,{default:()=>s})}},e=>{var n=n=>e(e.s=n);e.O(0,[63,441,684,358],()=>n(2632)),_N_E=e.O()}]);
