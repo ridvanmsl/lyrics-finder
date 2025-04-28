@@ -2,7 +2,7 @@
 
 A modern, sleek web application that allows users to find lyrics for their favorite songs quickly and easily.
 
-![Lyrics Finder App](https://i.imgur.com/placeholder.png)
+![Lyrics Finder App](https://www.shutterstock.com/image-vector/music-notes-wave-musical-on-260nw-1994426396.jpg)
 
 ## Features
 
