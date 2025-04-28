@@ -4,10 +4,12 @@ const isProd = process.env.NODE_ENV === 'production';
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   images: {
-    unoptimized: true, // Disable default image optimization
+    unoptimized: true,
+    loader: 'custom',
+    loaderFile: './image-loader.ts',
   },
-  assetPrefix: isProd ? '/lyrics-finder/' : '',
-  basePath: isProd ? '/lyrics-finder' : '',
+  assetPrefix: isProd ? '/my-app/' : '',
+  basePath: isProd ? '/my-app' : '',
   output: 'export'
 };
 
