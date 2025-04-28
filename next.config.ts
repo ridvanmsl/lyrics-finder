@@ -8,8 +8,8 @@ const nextConfig: NextConfig = {
     loader: 'custom',
     loaderFile: './image-loader.ts',
   },
-  assetPrefix: isProd ? '/my-app/' : '',
-  basePath: isProd ? '/my-app' : '',
+  assetPrefix: isProd ? '/lyrics-finder/' : '',
+  basePath: isProd ? '/lyrics-finder' : '',
   output: 'export'
 };
 
