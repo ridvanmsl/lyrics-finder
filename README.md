@@ -2,7 +2,7 @@
 
 A modern, sleek web application that allows users to find lyrics for their favorite songs quickly and easily.
 
-![Lyrics Finder App](https://cdn.pixabay.com/photo/2023/02/08/00/36/music-7775443_1280.png)
+<img src="https://cdn.pixabay.com/photo/2023/02/08/00/36/music-7775443_1280.png" alt="Lyrics Finder App" width="50%" />
 
 ## Features
 
