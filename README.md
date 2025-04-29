@@ -24,7 +24,7 @@ A modern, sleek web application that allows users to find lyrics for their favor
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lyrics-finder.git
+git clone https://github.com/ridvanmsl/lyrics-finder
 
 # Install dependencies
 npm install
